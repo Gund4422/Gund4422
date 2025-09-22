@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋, I'm gund4422
 
-<!--
-**Gund4422/Gund4422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🌱 I’m learning and exploring programming.
+- 💬 I enjoy coding, experimenting, and building projects in Python, Java, and Lua.
 
-Here are some ideas to get you started:
+## Skills
+- **Languages:** Python, Java, Lua
+- **Interests:** Creative coding, learning new programming concepts, obfuscation experiments
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gund4422&show_icons=true&theme=radical)
+
+## Badges
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Java](https://img.shields.io/badge/Java-21-orange)
+![Lua](https://img.shields.io/badge/Lua-5.4-royalblue)
