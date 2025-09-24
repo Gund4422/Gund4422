@@ -15,6 +15,3 @@
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Java](https://img.shields.io/badge/Java-21-orange)
 ![Lua](https://img.shields.io/badge/Lua-5.4-royalblue)
-
-## Sneak Peek 👀
-I’m creating a **new dialect of Lua**, coming out **September 30th**! Stay tuned for something fun and experimental.
