@@ -9,8 +9,9 @@
 - **Interests:** Creative coding, learning new programming concepts, obfuscation experiments
 
 ## Stats
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+![](https://github-readme-stats.vercel.app/api?username=Rasa8877&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Rasa8877&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rasa8877&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ## Badges
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Java](https://img.shields.io/badge/Java-21-orange)
