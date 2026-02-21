@@ -9,7 +9,7 @@
 - **Interests:** Creative coding, learning new programming concepts, obfuscation experiments
 
 ## Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gund4422&show_icons=true&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## Badges
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
